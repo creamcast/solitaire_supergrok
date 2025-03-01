@@ -1,6 +1,9 @@
-# solitaire_supergrok
+# Ruby Solitaire by supergrok
 solitaire entirely made with supergrok in RUBY. I did not look at the code. 
+grok would output the code, i'd test it, I'd find bugs, suggest improvements -> grok would output the code again repeat until it was done.
+You can press backtick then type reset to reset the game.
 
-grok would output the code, i'd test it, I'd find bugs, and suggest improvements -> grok would output the code again repeat etc 
+# Running
+ruby solitaire.rb
 
-You can press backtick and type reset to reset the game.
+
